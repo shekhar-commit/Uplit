@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Uplift Intelligence — A/B Testing & Uplift Modeling Platform",
+  "description": "Production-style A/B testing and T-Learner uplift modeling platform for restaurant promotions, measuring incremental treatment effects, Qini curves, and customer segmentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
